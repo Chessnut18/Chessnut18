@@ -1,6 +1,6 @@
 ## About:
 
-Recently been running Linux Fedora Gnome on my Lenovo Laptop. I love working on projects involving computer hardware.
+Recently been running Linux Fedora Gnome on my Lenovo Yoga Slim 7 Pro. I love working on projects involving computer hardware.
 
 ---
 
