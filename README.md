@@ -12,6 +12,6 @@ Recently been running Linux on my Lenovo Laptop. I love working on projects invo
 ### Other:
 ![](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
 ![](https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white)
-![](https://img.shields.io/badge/PC%20Builder-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
+![](https://img.shields.io/badge/PC%20Builder-000000?style=for-the-badge)
 
 ---
