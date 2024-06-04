@@ -1,6 +1,6 @@
 ## About:
 
-Recently been running Linux Fedora Gnome on my Lenovo Yoga Slim 7 Pro(R9). I love working on projects involving computer hardware.
+Recently been running Arch Linux on my Lenovo Yoga Slim 7 Pro(R9). I love working on projects involving computer hardware.
 
 ---
 
